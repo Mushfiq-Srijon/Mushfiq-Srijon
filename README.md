@@ -21,7 +21,7 @@ A job board web app — search, find, and post jobs. Built with the MERN stack a
 `MongoDB` `Express` `React` `Node.js`
 
 ### ⚽ [Kickscape](https://kickscape.vercel.app/)
-A FIFA World Cup 2026 Hub providing real-time match schedules, team standings, player databases, and an AI-powered chatbot for World Cup discussions. It integrates api for updated data.
+A FIFA World Cup 2026 Hub providing real-time match schedules, team standings, player databases, and an AI-powered chatbot for World Cup discussions. It integrates API for real time data.
 
 `React` `TypeScript` `Laravel` `MySQL` `PHP`
 
