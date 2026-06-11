@@ -20,6 +20,10 @@ A full-stack medicine delivery platform — search medicines by pharmacy locatio
 A job board web app — search, find, and post jobs. Built with the MERN stack as a team project.  
 `MongoDB` `Express` `React` `Node.js`
 
+### 💊 [Kickscape](https://kickscape.vercel.app/)
+A FIFA World Cup 2026 Hub providing real-time match schedules, team standings, player databases, and an AI-powered chatbot for World Cup discussions. It integrates api for updated data.
+`React` `TypeScript` `Laravel` `MySQL` `PHP`
+
 ---
 
 ## 📖 Currently learning
