@@ -25,6 +25,11 @@ A FIFA World Cup 2026 Hub providing real-time match schedules, team standings, p
 
 `React` `TypeScript` `Laravel` `MySQL` `PHP`
 
+### 💸 [FetchBucks](https://fetchbucks.vercel.app/)
+An expense tracking web app where users can easily set their monthly budget, create custom expense categories and keep track of daily expenses, anytime, anywhere.
+
+`React` `TypeScript` `Laravel` `MySQL` `PHP`
+
 ---
 
 ## 📖 Currently learning
