@@ -1,49 +1,128 @@
-# Hey, I'm Mushfiqur 👋
+<div align="center">
 
-I'm a CSE student at AUST, Dhaka — building full-stack web apps and gradually figuring out how everything fits together. Currently open to internships and junior roles.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Mushfiqur%20Rahman&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CSE%20Student&descAlignY=55&descSize=18" />
+
+</div>
+
+# Hi, I'm Mushfiqur Rahman
+
+### Full-Stack Developer | CSE Student at AUST
 
 ---
 
-## 🛠 What I work with
+## About Me
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,php,laravel,mysql,git,docker,vercel,github)](https://skillicons.dev)
+I'm a Computer Science student at AUST, Dhaka, and a full-stack developer focused on building practical and user-friendly web applications. I enjoy working across both frontend and backend development while continuously improving my software engineering skills.
+
+I'm currently looking for opportunities to gain real-world experience through internships and collaborative projects.
+
+### Currently Working On
+
+- Building and improving full-stack web applications
+- Strengthening my React, Laravel, MERN and backend development skills
+- Learning more about Docker, deployment, and DevOps
+- Exploring better software architecture and development practices
 
 ---
 
-## 🚀 Projects
+## Skills & Technologies
+
+<div align="center">
+
+### Languages
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,php" />
+</a>
+
+### Frontend
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</a>
+
+### Backend & Database
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,mongodb" />
+</a>
+
+### Tools & Platforms
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vite" />
+</a>
+
+</div>
+
+---
+
+## Featured Projects
 
 ### 💊 [CareMeds](https://care-meds-sd.vercel.app/)
-A full-stack medicine delivery platform — search medicines by pharmacy location, order online, pay via Stripe, and get invoices by email.  
+
+A full-stack medicine delivery platform with pharmacy-based medicine search, online ordering, Stripe payments, and invoice generation.
+
 `React` `TypeScript` `Laravel` `MySQL` `Stripe`
 
 ### 💼 [JobHut](https://github.com/Mushfiq-Srijon/JobHut)
-A job board web app — search, find, and post jobs. Built with the MERN stack as a team project.  
+
+A job board web application where users can search for jobs and recruiters can post opportunities. Built as a team project using the MERN stack.
+
 `MongoDB` `Express` `React` `Node.js`
 
 ### ⚽ [Kickscape](https://kickscape.vercel.app/)
-A FIFA World Cup 2026 Hub providing real-time match schedules, team standings, player databases, and an AI-powered chatbot for World Cup discussions. It integrates API for real time data.
 
-`React` `TypeScript` `Laravel` `MySQL` `PHP`
+A FIFA World Cup 2026 hub featuring real-time match schedules, team standings, player information, and an AI-powered chatbot.
+
+`React` `TypeScript` `Laravel` `MySQL`
 
 ### 💸 [FetchBucks](https://fetchbucks.vercel.app/)
-An expense tracking web app where users can easily set their monthly budget, create custom expense categories and keep track of daily expenses, anytime, anywhere.
 
-`React` `TypeScript` `Laravel` `MySQL` `PHP`
+An expense tracking application that allows users to manage monthly budgets, create custom expense categories, and track daily expenses.
 
----
-
-## 📖 Currently learning
-
-- TypeScript patterns in larger React codebases
-- DevOps basics — CI/CD, Docker, deployments
-- Improving my SQL and backend architecture
+`React` `TypeScript` `Laravel` `MySQL`
 
 ---
 
-## 📬 Reach me
+## GitHub Stats
 
-[![Email](https://img.shields.io/badge/Email-mushfiq.srijon@gmail.com-blue?style=flat&logo=gmail)](mailto:mushfiq.srijon@gmail.com)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mushfiq-Srijon&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiq-Srijon&layout=compact&theme=transparent&hide_border=true" height="165"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Mushfiq-Srijon&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
-*More projects coming soon — currently cooking 🍳*
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mushfiq.srijon@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Mushfiq-Srijon">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://mushfiq.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building. Learning. Improving.
+
+</div>
