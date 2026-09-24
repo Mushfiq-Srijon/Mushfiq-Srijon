@@ -65,9 +65,9 @@ A full-stack medicine delivery platform with pharmacy-based medicine search, onl
 
 `React` `TypeScript` `Laravel` `MySQL` `Stripe`
 
-### 💊 [Ed-Bridge](https://github.com/Mushfiq-Srijon/Ed-Bridge)
+### 📖 [Ed-Bridge](https://github.com/Mushfiq-Srijon/Ed-Bridge)
 
-
+An educational platform that allows students to share academic notes, participate in discussions, buy and sell educational materials, communicate with other students, and manage their academic activities from one place.
 
 `React` `TypeScript` `C#` `ASP.Net Core` `MySQL` 
 
