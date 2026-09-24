@@ -65,6 +65,12 @@ A full-stack medicine delivery platform with pharmacy-based medicine search, onl
 
 `React` `TypeScript` `Laravel` `MySQL` `Stripe`
 
+### 💊 [Ed-Bridge](https://github.com/Mushfiq-Srijon/Ed-Bridge)
+
+
+
+`React` `TypeScript` `C#` `ASP.Net Core` `MySQL` 
+
 ### 💼 [JobHut](https://github.com/Mushfiq-Srijon/JobHut)
 
 A job board web application where users can search for jobs and recruiters can post opportunities. Built as a team project using the MERN stack.
