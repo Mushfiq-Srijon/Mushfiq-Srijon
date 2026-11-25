@@ -71,12 +71,6 @@ An educational platform that allows students to share academic notes, participat
 
 `React` `TypeScript` `C#` `ASP.Net Core` `MySQL` 
 
-### 💼 [JobHut](https://github.com/Mushfiq-Srijon/JobHut)
-
-A job board web application where users can search for jobs and recruiters can post opportunities. Built as a team project using the MERN stack.
-
-`MongoDB` `Express` `React` `Node.js`
-
 ### ⚽ [Kickscape](https://kickscape.vercel.app/)
 
 A FIFA World Cup 2026 hub featuring real-time match schedules, team standings, player information, and an AI-powered chatbot.
